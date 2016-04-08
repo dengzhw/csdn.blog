@@ -1,7 +1,7 @@
+```````````````````
 安装React Native
-字数707 阅读67 评论0 喜欢1
-安装React Native
-配置环境要求：
+``````````````````
+#####配置环境要求:
 
 OS X：目前只有OS X中能够安转使用iOS的开发环境，并且Xcode 也只能运行在Mac上。
 最新版的Xcode开发工具：在Mac的App Store上下载就可以；
@@ -11,10 +11,10 @@ OS X：目前只有OS X中能够安转使用iOS的开发环境，并且Xcode 也
 使用命令行brew install flow,如果你要使用flow的话。
 快速开始
 
-使用命令行npm install -g react-native-cli;
-使用命令行react0-native init AwesomeProject；
-使用命令行cd AwesomeProject。
-在创建的文件夹AWesomeProject中：
+1. 使用命令行npm install -g react-native-cli;
+1. 使用命令行react0-native init AwesomeProject；
+1. 使用命令行cd AwesomeProject。
+1. 在创建的文件夹AWesomeProject中：
 
 使用Xcode打开AWesomeProject.xcodeproj文件并运行项目；
 用你常用的文件编辑器打开index.ios.js文件，选中几行修改下代码；
